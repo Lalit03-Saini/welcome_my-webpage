@@ -328,7 +328,7 @@ img {
 
 .instagram {
   line-height: 12px;
-  background-image: linear-gradient(40deg, yellow 10%, rgb(155, 13, 132));
+  background-image: radial-gradient(at 80% 0%, rgb(8, 20, 114) 0px, transparent 50%), radial-gradient(at 40% 20%, rgb(0, 86, 214) 0px, transparent 50%), radial-gradient(at 91% 89%, rgb(198, 240, 237) 0px, transparent 50%), radial-gradient(at 48% 90%, rgb(239, 52, 105) 0px, transparent 50%), radial-gradient(at 0% 77%, rgb(202, 255, 138) 0px, transparent 50%);
   color: white !important;
   border-radius: 5px;
   box-shadow: 0px 0px 10px -1px lightgreen;
@@ -375,4 +375,3 @@ img {
   margin: 10px 6px;
   padding: 6px 10px;
 }
-
