@@ -181,7 +181,9 @@ b {
 }
 
 .footers {
-  line-height: 25px;
+  line-height: 35px;
+  height: 100%;
+  margin: auto;
   padding: 0px 70px 30px 70px;
   box-sizing: border-box;
 }
@@ -374,4 +376,11 @@ img {
   box-shadow: 0px 0px 10px -1px rgb(28, 154, 200);
   margin: 10px 6px;
   padding: 6px 10px;
+}
+
+.sociallink {
+  display: inline-block;
+  margin: auto;
+  width: 87%;
+  position: absolute;
 }

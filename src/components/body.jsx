@@ -269,13 +269,13 @@ const Body = () => {
                             <p><FcAssistant /><Link to="tel: + 91 7877097203"> +91 7877097203</Link></p>
                             <pre><p><FcLibrary /> Ward no.29,Behind water work,<br></br>     Pilani,Rajasthan-333031</p></pre>
                             <div className="row">
-                                <div className="col=12 sociallink gap-8">
-                                    <Link className="linkedin" to="https://www.linkedin.com/in/lalit-saini03/" target="blank" >< BsLinkedin /> LINKEDIN</Link>
-                                    <Link className="instagram" to="https://instagram.com/r.lalit03?igshid=ZDdkNTZiNTM=" target="blank" ><  AiFillInstagram /> INSTAGRAM</Link>
-                                    <Link className="facebook" to="https://www.facebook.com/R.Lalitsaini0318?mibextid=ZbWKwL" target="blank" >< FiFacebook />FACEBOOK</Link>
-                                    <Link className="whatsapp" to="https://wa.me/7877097203" target="blank"><RiWhatsappFill />Whatsapp</Link>
-                                    <Link className="github" to="https://github.com/Lalit03-Saini" target="blank"><BsGithub />Git hub</Link>
-                                    <Link className="gmail" to="mailto:lalitdaiya54@gmail.com" target="blank">< GrMail />G-Mail</Link>
+                                <div className="col-6 sociallink gap-8">
+                                    <Link className="linkedin col-6" to="https://www.linkedin.com/in/lalit-saini03/" target="blank" >< BsLinkedin /> LINKEDIN</Link>
+                                    <Link className="instagram col-6" to="https://instagram.com/r.lalit03?igshid=ZDdkNTZiNTM=" target="blank" ><  AiFillInstagram /> INSTAGRAM</Link>
+                                    <Link className="facebook col-6" to="https://www.facebook.com/R.Lalitsaini0318?mibextid=ZbWKwL" target="blank" >< FiFacebook />FACEBOOK</Link>
+                                    <Link className="whatsapp col-6" to="https://wa.me/7877097203" target="blank"><RiWhatsappFill />Whatsapp</Link>
+                                    <Link className="github col-6" to="https://github.com/Lalit03-Saini" target="blank"><BsGithub />Git hub</Link>
+                                    <Link className="gmail col-6" to="mailto:lalitdaiya54@gmail.com" target="blank">< GrMail />G-Mail</Link>
                                 </div>
                             </div>
                         </footer>
