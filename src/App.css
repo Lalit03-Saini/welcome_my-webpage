@@ -379,6 +379,9 @@ img {
 
 .sociallink {
   display: inline-block;
+  align-items: center;
+  align-content: center;
+  text-align: center;
   margin: auto;
   width: 87%;
   position: absolute;
